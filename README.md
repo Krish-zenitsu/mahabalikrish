@@ -29,8 +29,15 @@
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/mahabalispam)
 
 # SPAMBOTS
-[𝐆𝐄𝐍𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆](https://replit.com/@unknownforall1/SPAM-BOT-REPL-BY-SIDDHANT-DEVIL#main.py)
+[𝐆𝐄𝐍𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆](https://replit.com/@Mahabalix/mahabalispam#main.py)
 
+𝗥𝗘𝗣𝗢 𝗖𝗥𝗘𝗗𝗜𝗧➪ 𝗬𝗨𝗞𝗞𝗜&𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥
+
+𝗥𝗘𝗣𝗜𝗟 𝗖𝗥𝗘𝗗𝗜𝗧➪ 𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥
+
+𝗙𝗨𝗟𝗟 𝗠𝗢𝗗𝗘 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗔𝗚𝗔𝗜𝗡
+
+𝗠𝗢𝗗𝗘𝗗 𝗕𝗬➪ 𝗠𝗔𝗛𝗔𝗕𝗔𝗟𝗜
 
 
 
