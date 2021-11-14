@@ -31,9 +31,9 @@
 ## String Session FOR  BOT AND IDS 
 
 
-   - BOT STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/mahabalispam#main.py)
+   - 𝐁𝐎𝐓 𝐒𝐓𝐑𝐈𝐍𝐆 [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/mahabalispam#main.py)
 
-   - ID STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/MAHABALI-ID-SPAM#main.py)
+   - 𝐈𝐃 𝐒𝐓𝐑𝐈𝐍𝐆 [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/MAHABALI-ID-SPAM#main.py)
 
 
 𝗖𝗥𝗘𝗗𝗜𝗧➪ 𝗬𝗨𝗞𝗞𝗜&𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥
