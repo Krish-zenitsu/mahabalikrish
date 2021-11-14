@@ -28,8 +28,13 @@
 ## Deploy To Heroku
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/mahabalispam)
 
-# SPAMBOTS
-[𝐆𝐄𝐍𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆](https://replit.com/@Mahabalix/mahabalispam#main.py)
+## String Session FOR  BOT AND IDS 
+
+
+   - BOT STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/mahabalispam#main.py)
+
+   - ID STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/MAHABALI-ID-SPAM#main.py)
+
 
 𝗖𝗥𝗘𝗗𝗜𝗧➪ 𝗬𝗨𝗞𝗞𝗜&𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥
 
